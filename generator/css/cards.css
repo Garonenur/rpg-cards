@@ -183,7 +183,7 @@
     font-style: italic;
 }
 .card-description-name::after {
-    content: ".";
+    content: ":";
 }
 .card-description-text {
     display: inline;
